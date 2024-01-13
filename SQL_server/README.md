@@ -1,3 +1,17 @@
+# Client-Server Application with MySQL and APIs
+
+This repository contains the implementation and documentation of a client-server application developed as part of our coursework. The project focuses on creating a robust application architecture using MySQL for database management and APIs for data interaction. Key features include:
+
+- Implementation of SQL stored commands for efficient database operations.
+- Design and development of APIs adhering to best practices for usability and security.
+- Detailed error handling and access restriction mechanisms to ensure data integrity and security.
+- Automated testing using Postman to validate functionality and performance.
+
+The project demonstrates a comprehensive approach to application development, emphasizing secure, efficient, and user-friendly data management.
+
+
+
+
 # Installation
 To install this project, follow these steps:
 
